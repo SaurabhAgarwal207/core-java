@@ -1,4 +1,4 @@
-package com.saurabh;
+package com.saurabh.strings;
 
 public class LargestElementArray {
     public static void main(String[] args) {

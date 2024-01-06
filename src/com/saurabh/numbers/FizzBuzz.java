@@ -1,4 +1,4 @@
-package com.saurabh;
+package com.saurabh.numbers;
 /*
 %3 and %5 FizzBuzz
 %3 Fizz

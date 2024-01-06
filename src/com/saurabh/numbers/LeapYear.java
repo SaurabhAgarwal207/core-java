@@ -1,4 +1,4 @@
-package com.saurabh;
+package com.saurabh.numbers;
 
 import java.util.Scanner;
 

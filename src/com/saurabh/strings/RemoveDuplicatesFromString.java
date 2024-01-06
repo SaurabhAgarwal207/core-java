@@ -1,4 +1,4 @@
-package com.saurabh;
+package com.saurabh.strings;
 
 
 import java.util.LinkedHashSet;

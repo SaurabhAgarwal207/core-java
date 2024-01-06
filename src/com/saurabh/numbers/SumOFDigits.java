@@ -1,4 +1,4 @@
-package com.saurabh.basics;
+package com.saurabh.numbers;
 
 public class SumOFDigits {
     public static void main(String[] args) {

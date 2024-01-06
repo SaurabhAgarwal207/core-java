@@ -1,4 +1,4 @@
-package com.saurabh;
+package com.saurabh.numbers;
 
 public class PerfectPowerOf2 {
     public static void main(String[] args) {
@@ -17,11 +17,6 @@ public class PerfectPowerOf2 {
         else{
             System.out.println("Not perfect power");
         }
-    }
-
-
-    {
-
     }
 }
 
